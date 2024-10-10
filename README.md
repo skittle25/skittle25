@@ -1,4 +1,4 @@
-I have lots of code from my miniprojects (largest have only 100000 lines of code and I worked on it for about 3 weeks) that I'll maybe post. Some of them work but if some don't work you still can find inspiration and ideas in them.
+I have lots of code from my miniprojects (largest have only 100000 lines of code and I worked on it for about 3 weeks) that I'll maybe post. Some of them work but if some don't work you still can find inspiration and ideas in them (Currently I try to recreate brain with some simple rules when I'll finish I'll share demos).
 
 <!---
 skittle25/skittle25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
